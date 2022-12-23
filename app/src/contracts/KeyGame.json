@@ -1,0 +1,75 @@
+{
+  "contractName": "KeyGame",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.17+commit.8df45f5f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/KeyGame.sol\":\"KeyGame\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/KeyGame.sol\":{\"keccak256\":\"0x7e1aa263f50808cb2ad18a64e7cf5491b69add56cb70ce775105d633b6843bb5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://1016462a3f9c1b6cad2903bc64f62f51bdb5204e15f43d4af5d6ff762b8d3bc1\",\"dweb:/ipfs/QmPYbrLmib8Yf3zJeiFFndP6LtdR2b5RK83GsHDaJH2WSx\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a2c34cf7b358849efc6361c955766cebc0839deb8be85199cd09529675d8517864736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a2c34cf7b358849efc6361c955766cebc0839deb8be85199cd09529675d8517864736f6c63430008110033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "58:25:4:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "58:25:4:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.17;\n\ncontract KeyGame {\n    \n}",
+  "sourcePath": "/Users/x/truffle/vite-game/contracts/KeyGame.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/KeyGame.sol",
+    "exportedSymbols": {
+      "KeyGame": [
+        714
+      ]
+    },
+    "id": 715,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 713,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".17"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:24:4"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "KeyGame",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 714,
+        "linearizedBaseContracts": [
+          714
+        ],
+        "name": "KeyGame",
+        "nameLocation": "67:7:4",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 715,
+        "src": "58:25:4",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:51:4"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.17+commit.8df45f5f.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.11",
+  "updatedAt": "2022-12-23T09:44:49.625Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
