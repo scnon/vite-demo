@@ -47,6 +47,7 @@ const WalletInfo = (props: {}) => {
 
     return (
         <Card title="Wallet Info" onLoad={updateInfo}>
+            <Button onClick={connect}>Connect</Button>
             <p>Account: {account}</p>
             <p>Balance: {balance} USDT</p>
             <p>Approve: {approve} USDT</p>

@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.0",
     "@truffle/contract": "^4.6.10",
     "antd": "^5.1.0",
     "metamask-react": "^2.4.1",
